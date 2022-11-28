@@ -10,7 +10,6 @@ The system takes a list of search terms as input and generates a csv file as out
 The csv structure also contains the kind of expansion (synonym, child, parent), e.g.,
 
 * "ontology";"uri";"sourceTerm";"expansionTerm";"synonym";"childNode";"siblingNode";"parentNode"
-* "ENVO";"http://purl.obolibrary.org/obo/ENVO_00000444";"grassland";"CLEARING";"true";"false";"false";"false"
 
 Two terminology services are currently supported:
 
