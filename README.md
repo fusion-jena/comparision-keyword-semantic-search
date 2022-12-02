@@ -25,7 +25,7 @@ The code has been implemented and tested with Java 1.8., Apache ANT 1.10 and ivy
 
 For Bioportal an access key is needed: https://bioportal.bioontology.org/accounts/new
 
-##Installation
+## Installation
 
 * open a command line and navigate to the folder
 
