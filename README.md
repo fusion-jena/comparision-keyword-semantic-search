@@ -1,7 +1,7 @@
 
 # Supplementary material of a comparative user study between a keyword search and a semantic search
 
-[![DOI](https://zenodo.org/badge/571790916.svg)](https://zenodo.org/badge/latestdoi/571790916)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7374539.svg)](https://doi.org/10.5281/zenodo.7374539)
 
 
 
